@@ -7,3 +7,5 @@ I am:
 - Building proficiency in **Python, Java, C#, GDScript, and Fullstack web development (HTML, JS, Flask, Streamlit, SQLite)**
 - An indie game developer focusing on **Unity and Godot** 
 - Always improving my craft
+
+You can see more of my work here![itch](https://itch.io/schweem)
