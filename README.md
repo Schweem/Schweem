@@ -4,7 +4,7 @@
 
 I am:
 - A second-year computer science major at New College of Florida 
-- Building proficiency in **Python, Java, C#, GDScript, and Fullstack web development (HTML, JS, Flask, Streamlit, SQLite, ...)**
+- Building proficiency in **Python (Pandas, Numpy, matplotlib), Java, C#, GDScript, and Fullstack web development (HTML, JS, Flask, Streamlit, SQLite, ...)**
 - An indie game developer focusing on **Unity and Godot**
 - Always improving my craft
 
