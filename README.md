@@ -1,4 +1,4 @@
-# Schweem
+# Seamus Jackson
 
 ## Welcome to my GitHub!
 
