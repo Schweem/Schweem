@@ -3,7 +3,8 @@
 ## Welcome to my GitHub!
 
 I am:
-- A second-year computer science major at New College of Florida 
+- A second-year computer science major at New College of Florida
+- Looking to minor in Data Science
 - Building proficiency in **Python (Pandas, Numpy, matplotlib), Java, C#, GDScript, and Fullstack web development (HTML, JS, Flask, Streamlit, SQLite, ...)**
 - An indie game developer focusing on **Unity and Godot**
 - Always improving my craft
