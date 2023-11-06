@@ -8,4 +8,4 @@ I am:
 - An indie game developer focusing on **Unity and Godot** 
 - Always improving my craft
 
-You can see more of my work on [itch.io](https://itch.io/schweem).
+You can see more of my work and play my released games at [itch.io](https://itch.io/schweem)!
