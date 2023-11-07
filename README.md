@@ -1,5 +1,3 @@
-# Seamus Jackson
-
 ## Welcome to my GitHub!
 
 I am:
