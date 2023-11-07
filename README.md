@@ -1,4 +1,4 @@
-## Welcome to my GitHub!
+# Welcome to my GitHub!
 
 I am:
 - A second-year computer science major at New College of Florida
