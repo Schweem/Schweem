@@ -3,7 +3,7 @@
 I am:
 - A third-year computer science major at New College of Florida
 - Looking to minor in Data Science
-- Building proficiency in **Python (Pandas, Numpy, matplotlib), Java, C#, GDScript, and Fullstack web development (FLASK, REACT, Mongo, Streamlit, SQLite)**
+- Building proficiency in as many languages I can, currently focused on distributed computing with python and game dev with godot. Using VITE for fullstack projects, with a current focus on mongoDB.
 - An indie game developer focusing on **Unity and Godot**
 - Always improving my craft
 
