@@ -1,8 +1,7 @@
-# Welcome to my GitHub!
-
-I am:
-- A third-year computer science major at New College of Florida
-- Looking to minor in Data Science
+## Hi I'm Seamus, 
+I'm:
+- A senior at New College of Florida pursuing my BA in computer science 
+- Interested in data science and machine learning
 - Building proficiency in as many languages I can, currently focused on distributed computing with python and game dev with godot. Using VITE for fullstack projects, with a current focus on mongoDB.
 - An indie game developer focusing on **Unity and Godot**
 - Always improving my craft
