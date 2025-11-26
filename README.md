@@ -5,7 +5,7 @@
 ## Hi, I'm Seamus.
 ### About me:
 - I'm a senior at New College of Florida pursuing my BA in computer science, transitioning to a masters in applied data science.
-- Interested in data science, and LLM applications.
+- Interested in data science, game development, LLM applications, and open source software.
 - Working mostly in **Python and R**.
 - An indie game developer focusing on **Godot and Unity**.
 - Always looking to improve my craft.
