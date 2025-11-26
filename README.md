@@ -6,7 +6,7 @@
 ### About me:
 - I'm a senior at New College of Florida pursuing my BA in computer science, transitioning to a masters in applied data science.
 - Interested in data science, and LLM applications.
-- Working mostly in **Python, R, and C++**.
+- Working mostly in **Python and R**.
 - An indie game developer focusing on **Godot and Unity**.
 - Always looking to improve my craft.
 
