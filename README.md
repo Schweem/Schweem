@@ -3,7 +3,6 @@
 <td width="70%">
 
 ## Hi, I'm Seamus.
-### About me:
 - I've just completed my computer science degree at New College of Florida. I am now working on my Masters in applied data science. 
 - Interested in data science, game development, LLM applications, and open source software.
 - Working mostly in **Python and R**.
